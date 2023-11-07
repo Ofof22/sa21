@@ -1,0 +1,114 @@
+{
+  "sorular": [
+    {
+      "soru": "Merhaba",
+      "cevaplar": ["Merhaba!", "Merhaba, size nasıl yardımcı olabilirim? Size bir fıkra anlatmamı istermisiniz?"]
+    },
+    {
+      "soru": "olur",
+      "cevaplar": ["Elbette anlatırım işte fıkra : Nasreddin Hoca bir gün çarşıya gitmiş ve bir kavun satın almış.Kavunu eve getirip kesmek için bıçagını almış.Ancak bıçagı keskin olmadığı için kavunu bir türlü kesememiş. Hoca, bıçağını bile bile nasıl keskin yapabileceğini düşünmüş. Bir arkadaşı yanına gelip sormuş(Hoca, Ne yapıyorsun? Neden kavunu kesemiyorsun?) demiş ve Hoca cevap vermiş: (Bıçağı keskinleştirmeye çalışıyorum ama nasıl yapılacağını hatırlayamıyorum . Yardım edermisin?) der ve Arkadaşı şaşkın bir şekilde sormuş (Hoca, bıçağı keskinleştirmek için başka bir bıçağa ihtiyacın var, peki senin bıçağın nerede?) Hoca gülerek cevap vermiş (Aynen öyle! İşte bu yüzden kavunu kesemiyorum, bıçağım bile yok!) der ve biter "]
+    },
+    {
+      "soru": "kurucun kim?",
+      "cevaplar": ["Beni yaratan biricik sevdiğim DakLi!?"]
+    },
+    {
+      "soru": "bana şarkı öner",
+      "cevaplar": ["Tabikide öneririm ne tür şarkılar dinlemek istersiniz? mesela phonk arabesk slow rap şarkılar gibi."]
+    },
+    {
+      "soru": "rap",
+      "cevaplar": [
+        "Lose Yourself (Eminem)",
+        "Sicko Mode (Travis Scott)",
+        "Without Me (Halsey & Eminem)",
+        "HUMBLE. (Kendrick Lamar)",
+        "Old Town Road (Lil Nas X & Billy Ray Cyrus)",
+        "Gin and Juice (Snoop Dogg)",
+        "Hotline Bling (Drake)",
+        "Sicko Mode (Travis Scott)",
+        "God's Plan (Drake)",
+        "Mo Money Mo Problems (The Notorious B.I.G.)",
+        "Bu Rap Muharebe (Ceza)",
+        "Dön Desem de (Ayben)",
+        "Suspus (Ceza & Ayben)",
+        "Mizah Yok (Sansar Salvo)",
+        "Bizim Gibiler (Sagopa K)",
+        "Kız (Ceza)",
+        "Sana Bir Şey Olmasın (Ayben)",
+        "Ne Yapmalı? (Ceza)",
+        "İzmir Marşı (Ceza)",
+        "Neyim Var Ki (Ceza)",
+        "Du Hast (Rammstein)",
+        "Ohne mein Team (Bonez MC & RAF Camora)",
+        "Ich will (Rammstein)",
+        "Hallo Hallo (Raf Camora)",
+        "Alles Gold (RAF Camora)",
+        "Skifahren (Fler)",
+        "Sturmmaske Auf (Intro) (Kollegah)",
+        "Verdammt ich lieb' Dich (Matthias Reim)",
+        "Wolke 7 (Max Herre feat. Philipp Poisel)",
+        "Drogen nehmen (RAF Camora)"
+      ]
+    },
+    {
+      "soru": "arabesk",
+      "cevaplar": [
+        "Hasret Gider (Eylem Aktaş)",
+        "Ah Bu Şarkıların Gözü Kör Olsun (Tarkan)",
+        "Bu Gece (İbrahim Tatlıses)",
+        "Bir Sana Bir de Allah'a (Orhan Gencebay)",
+        "Ben Böyleyim (Mahsun Kırmızıgül)",
+        "Ölüm Var (İbrahim Tatlıses)",
+        "Gittiler (Mahsun Kırmızıgül)",
+        "Gelme (Ferdi Tayfur)",
+        "Yalancı Dünya (İbrahim Tatlıses)",
+        "Beni Benden Alırsan (Orhan Gencebay)",
+        "Düşler Ülkesinin Gelgit Akıllısı (Ferdi Tayfur)",
+        "Bensiz Sende Olamazsın (Hakkı Bulut)",
+        "Ağla Yüreğim (Ferdi Tayfur)",
+        "Acı Tütün (Orhan Gencebay)",
+        "Ayrılık (Hakkı Bulut)",
+        "Neden Saçların Beyazlamış Arkadaş (İbrahim Tatlıses)",
+        "Kış Masalı (Eylem Aktaş)",
+        "Dertli Dertli (Orhan Gencebay)",
+        "Bana Ellerini Ver (Hakkı Bulut)",
+        "Yine De Seni Sevdim (Ferdi Tayfur)"
+      ]
+    },
+    {
+      "soru": "phonk",
+      "cevaplar": [
+        "Chill Pill (NastyNasty)",
+        "Kustom (Baker)",
+        "Stay Out All Night (DJ Smokey)",
+        "Living In The Hood (Soudiere)",
+        "Soaked (Devonwho)",
+        "Night Lovell (Deira City Centre)",
+        "Vaporwave Vibes (Soudiere)",
+        "Wave Emoji (Cat Soup)",
+        "Glass House (Gxx)",
+        "Crime Pays (Soudiere)"
+      ]
+    },
+    {
+      "soru": "slow",
+      "cevaplar": [
+        "Your Song (Elton John - Slowed Reverb)",
+        "November Rain (Guns N' Roses - Slowed Reverb)",
+        "Just the Two of Us (Bill Withers - Slowed Reverb)",
+        "Dreams (Fleetwood Mac - Slowed Reverb)",
+        "Hotel California (Eagles - Slowed Reverb)",
+        "Wish You Were Here (Pink Floyd - Slowed Reverb)",
+        "Time (Pink Floyd - Slowed Reverb)",
+        "Bohemian Rhapsody (Queen - Slowed Reverb)",
+        "Hotel California (Eagles - Slowed Reverb)",
+        "Billie Jean (Michael Jackson - Slowed Reverb)"
+      ]
+    },
+
+  ]
+}
+
+
+
